@@ -21,9 +21,6 @@ The project explores retail transactions, customer information and product categ
 - Repeat-purchase behaviour and loyal-customer identification
 - Age-cohort spending patterns and a date-bounded campaign window
 
-## Power BI report
-The Power BI file is available in `powerbi/Retail_Analytics_Dashboard.pbix`.
-
 ## Power BI Dashboard
 
 The interactive dashboard provides insights into retail sales performance, revenue trends, customer activity, product performance and regional comparisons.
@@ -68,6 +65,8 @@ retail-sales-customer-analytics/
 │   └── Retail_Analytics.ipynb
 ├── powerbi/
 │   └── Retail_Analytics_Dashboard.pbix
+├── images/
+│   └── retail-dashboard.png
 ├── data/                  # Add source CSVs locally; not tracked
 ├── .gitignore
 └── README.md
