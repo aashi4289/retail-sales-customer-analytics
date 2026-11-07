@@ -24,6 +24,25 @@ The project explores retail transactions, customer information and product categ
 ## Power BI report
 The Power BI file is available in `powerbi/Retail_Analytics_Dashboard.pbix`.
 
+## Power BI Dashboard
+
+The interactive dashboard provides insights into retail sales performance, revenue trends, customer activity, product performance and regional comparisons.
+
+### Dashboard Preview
+
+![Retail Analytics Dashboard](images/retail-dashboard.png)
+
+### Dashboard Highlights
+
+- Revenue and customer KPIs
+- Monthly and weekly sales trends
+- Zone-wise revenue analysis
+- Day-wise transaction patterns
+- Top 10 products by net revenue
+- Interactive slicers and filters
+
+The Power BI file is available in `powerbi/Retail_Analytics_Dashboard.pbix`.
+
 ## Python notebook
 Open `notebooks/Retail_Analytics.ipynb` in Jupyter Notebook or JupyterLab.
 
